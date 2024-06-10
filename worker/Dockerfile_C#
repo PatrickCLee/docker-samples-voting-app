@@ -1,3 +1,4 @@
+# not tested, cause this is not my main lol   2024-06-10
 FROM microsoft/dotnet:1.1.1-sdk
 
 WORKDIR /code
