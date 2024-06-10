@@ -1,3 +1,6 @@
 # docker-samples-voting-app
-Clone from https://github.com/dockersamples/example-voting-app
+Clone from [https://github.com/dockersamples/example-voting-app](https://github.com/mntforever/docker-samples-voting-app) but with modifications of worker/Dockerfile (s).
+Cause the [original github repo](https://github.com/dockersamples/example-voting-app/tree/main) was updated.
+And the forked one was outdated.
+
 # No personal or commercial usages. For educational purposes only.
